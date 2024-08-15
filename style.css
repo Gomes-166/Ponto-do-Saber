@@ -23,6 +23,7 @@
   }
   main{
     width: 90vw;
+    margin: auto;
   }
   .q1{
       background-color: aqua;
