@@ -23,7 +23,7 @@
       
   }
   main{
-     min-width: 320px;
+    width: 320px;
   }
   .q1{
       background-color: aqua;
