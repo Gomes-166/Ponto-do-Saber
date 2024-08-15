@@ -1,14 +1,8 @@
 
 
-@media screen and(min-width:320px) and (max-width:480px){
-   body{
-    background-image: url(Header\ 1.jpg);
-   }
-}
-
 @media screen and (min-width: 481px) and (max-width:768px){
     body{
-       background-image: url(Header\ 1.jpg);
+        background-image: url(Header\ 1.jpg);
     }
 }
 
