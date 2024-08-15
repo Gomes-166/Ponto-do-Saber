@@ -1,8 +1,4 @@
-*{
-    margin: 0px;
-    padding: 0px;
-    box-sizing: border-box;
-}
+
 
 @media screen and(min-width:320px) and (max-width:480px){
    body{
@@ -20,6 +16,9 @@
 @media screen and (min-width:769px) and (max-width:1024px){
     body{
         background-color: blue;
+    }
+    main{
+        width: 768;
     }
 }
 
