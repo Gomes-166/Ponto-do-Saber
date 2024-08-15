@@ -19,10 +19,10 @@
       background-position: center center;
   }
   body{
-     width: 320px;
+     height: 100vh;
   }
   main{
-    width: 400px;
+    width: 90vw;
   }
   .q1{
       background-color: aqua;
